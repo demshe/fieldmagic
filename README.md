@@ -1,4 +1,6 @@
 Back End--------------------
+Database:MYSQL
+    1. Create databse on local host name "fieldmagic"
 LARAVEL 9.19
     1. Go inside the Back_fieldMagic
     2. Run command "php astisan --migarte"
